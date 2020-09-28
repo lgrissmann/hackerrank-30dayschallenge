@@ -25,6 +25,17 @@ public class Solution {
         int N = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
+        String output = "Weird"; //default
+        
+        if ((N % 2) == 0) {
+            // is even
+            if ( N >= 2 && N <= 5) output = "Not Weird";
+            if ( N >= 6 && N <= 20) output = "Weird";
+            if ( N > 20) output = "Not Weird";
+        }
+        // else: is odd
+
+        System.out.println(output);
         scanner.close();
     }
 }
