@@ -8,5 +8,6 @@
 0. Operators
 0. Intro to Conditional Statements
 0. Class vs Instance
+0. Loops
 
 For more information visit [HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
