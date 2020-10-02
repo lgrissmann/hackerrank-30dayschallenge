@@ -10,7 +10,7 @@
 [x] Day 4: Class vs. Instance  
 [x] Day 5: Loops  
 [x] Day 6: Let's Review  
-[ ] Day 7: Arrays  
+[x] Day 7: Arrays  
 [ ] Day 8: Dictionaries and Maps  
 [ ] Day 9: Recursion 3  
 [ ] Day 10: Binary Numbers  
