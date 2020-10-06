@@ -11,11 +11,11 @@
 [x] Day 5: Loops  
 [x] Day 6: Let's Review  
 [x] Day 7: Arrays  
-[ ] Day 8: Dictionaries and Maps  
-[ ] Day 9: Recursion 3  
-[ ] Day 10: Binary Numbers  
-[ ] Day 11: 2D Arrays  
-[ ] Day 12: Inheritance  
+[x] Day 8: Dictionaries and Maps  
+[x] Day 9: Recursion 3  
+[x] Day 10: Binary Numbers  
+[x] Day 11: 2D Arrays  
+[x] Day 12: Inheritance  
 [ ] Day 13: Abstract Classes  
 [ ] Day 14: Scope  
 [ ] Day 15: Linked List  
