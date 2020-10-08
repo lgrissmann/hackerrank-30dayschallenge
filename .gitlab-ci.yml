@@ -2,7 +2,7 @@ requirements_confirmation:
   allow_failure: false
   script:
     - mkdir tmp
-    - echo "{\"REQ-1":\"passed\"}" > tmp/requirements.json
+    - echo "{\"REQ-1\":\"passed\"}" > tmp/requirements.json
   artifacts:
     reports:
       requirements: tmp/requirements.json
