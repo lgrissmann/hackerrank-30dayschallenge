@@ -17,7 +17,7 @@
 [x] Day 11: 2D Arrays  
 [x] Day 12: Inheritance  
 [x] Day 13: Abstract Classes  
-[ ] Day 14: Scope  
+[x] Day 14: Scope  
 [ ] Day 15: Linked List  
 [ ] Day 16: Exceptions - String to Integer  
 [ ] Day 17: More Exceptions  
