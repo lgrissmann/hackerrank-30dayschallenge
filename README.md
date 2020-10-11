@@ -20,7 +20,7 @@
 [x] Day 14: Scope  
 [x] Day 15: Linked List  
 [x] Day 16: Exceptions - String to Integer  
-[ ] Day 17: More Exceptions  
+[x] Day 17: More Exceptions  
 [ ] Day 18: Queues and Stacks  
 [ ] Day 19: Interfaces  
 [ ] Day 20: Sorting  
