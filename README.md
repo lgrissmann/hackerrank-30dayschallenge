@@ -19,7 +19,7 @@
 [x] Day 13: Abstract Classes  
 [x] Day 14: Scope  
 [x] Day 15: Linked List  
-[ ] Day 16: Exceptions - String to Integer  
+[x] Day 16: Exceptions - String to Integer  
 [ ] Day 17: More Exceptions  
 [ ] Day 18: Queues and Stacks  
 [ ] Day 19: Interfaces  
