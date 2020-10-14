@@ -22,7 +22,7 @@
 - [x] Day 17: More Exceptions  
 - [x] Day 18: Queues and Stacks  
 - [x] Day 19: Interfaces  
-- [ ] Day 20: Sorting  
+- [x] Day 20: Sorting  
 - [ ] Day 21: Generics   
 - [ ] Day 22: Binary Search Trees  
 - [ ] Day 23: BST Level-Order Traversal  
