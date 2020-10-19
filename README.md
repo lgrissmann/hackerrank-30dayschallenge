@@ -24,7 +24,7 @@
 - [x] Day 19: Interfaces  
 - [x] Day 20: Sorting  
 - [x] Day 21: Generics   
-- [ ] Day 22: Binary Search Trees  
+- [x] Day 22: Binary Search Trees  
 - [ ] Day 23: BST Level-Order Traversal  
 - [ ] Day 24: More Linked Lists  
 - [ ] Day 25: Running Time and Complexity  
